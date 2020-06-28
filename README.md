@@ -1,0 +1,1 @@
+# Automatically generated Go code from prototest_spec
